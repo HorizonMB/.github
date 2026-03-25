@@ -48,11 +48,6 @@ Resources are drawn from:
 
 Community members can submit, edit, and update resources directly through the platform at [horizonmap.ca](https://horizonmap.ca/).
 
-## Contact
-
-- **Email:** [contact@horizonmap.ca](mailto:contact@horizonmap.ca)
-- **Phone:** +1 (204) 599-3136
-- **Address:** 406-55 Chancellors Circle, Winnipeg, MB R3T 2N2, Canada
 
 ## Organization
 
